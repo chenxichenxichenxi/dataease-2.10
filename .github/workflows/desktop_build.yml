@@ -7,10 +7,6 @@ on:
         description: 'DataEase Branch'
         required: true
         default: "dev-v2"
-      tag:
-        description: 'tag'
-        required: true
-        default: "dev-v2"
 
 jobs:
   build:
